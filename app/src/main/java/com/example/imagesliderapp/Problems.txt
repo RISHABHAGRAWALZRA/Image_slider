@@ -1,0 +1,2 @@
+1. Not updating images on selecting another city at after first time
+2.
